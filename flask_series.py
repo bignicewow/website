@@ -35,7 +35,7 @@ posts = [
         "author": "Barack Obama",
         "title": "Blog Post 1",
         "content": "First post content",
-        "date_posted": "April 14, 2020"
+        "date_posted": "April 15, 2020"
     },
     {
         "author": "Ding Liren",
